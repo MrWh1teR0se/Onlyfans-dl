@@ -1,7 +1,5 @@
 # OnlyFansDL (.NET Core)
 
----
-
 This tool downloads all photos/videos from an OnlyFans profile, creating a local archive. 
 
 You must be subscribed to the profile to download their content.
